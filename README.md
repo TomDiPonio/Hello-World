@@ -1,2 +1,5 @@
 # Hello-World
-just another repository
+My name is tom diponio
+I attend michigan state
+
+
